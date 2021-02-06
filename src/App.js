@@ -1,8 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import Sitebar from './home/Navbar';
 import Auth from './auth/Auth';
-import WorkoutIndex from './workouts/WorkoutIndex';
-import { Button } from 'reactstrap';
+import WorkoutIndex from './workouts/WorkoutIndex'
 
 function App() {
 
